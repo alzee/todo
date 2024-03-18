@@ -248,8 +248,6 @@ easyadmin:
 - 0.1+0.2 0.2+0.4 0.3+0.6 ...
 - mysql index, master, slave
 - ssh -D , for other clients?
-- vim fold
-- nmap nc
 - times
 - compile a kernel
 - snmp MIB
