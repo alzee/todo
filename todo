@@ -1,0 +1,301 @@
+- https://dotat.at/@/2023-05-26-whence-time.html
+- 寒窑赋 https://so.gushiwen.cn/shiwenv_41005a503da5.aspx
+- https://blog.allegro.tech/2023/11/how-does-btree-make-your-queries-fast.html
+- https://linuxiac.com/how-to-set-up-web-based-ssh/
+- https://ptrchm.com/posts/base32-explained/
+- https://linuxiac.com/how-to-set-up-ssh-to-use-two-factor-authentication/
+- https://journal.hexmos.com/gpu-survival-toolkit/
+- https://hughfenghen.github.io/posts/2023/12/23/web-spy/
+- background-erase.xyz
+- https://justinjaffray.com/a-charming-algorithm-for-count-distinct/
+- https://pqvst.com/2023/11/21/web-push-notifications/
+- https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/
+- https://wise.com/us/blog/paypal-vs-payoneer
+- https://needlify.com/post/how-to-prefix-urls-with-the-locale-in-symfony-aea009a2
+- bin/console doctrine:database:create permission denied to create database
+- https://www.howtouselinux.com/post/understanding-rpcbind-and-rpc
+design to code:
+  - https://code.fun/
+  - https://www.imgcook.com/
+  - https://github.com/TreeZhou/psd-to-code
+  - https://github.com/anjorweb/fastHtml
+  - https://github.com/imcuttle/measure
+  - https://github.com/topics/psd-to-html
+  - https://github.com/wanxianjia/PSD2HTML
+  - https://github.com/gridaco/code
+  - figma:
+    - https://semi.design/
+    - https://pixso.cn/
+    - https://mastergo.com/
+    - https://js.design/
+- 智能大反攻 The Mitchells vs. The Machines (2021)
+- BNF WSN
+- https://tomhummel.com/posts/four-web-apps/
+- gin
+- django
+- flask
+- actix-web
+- axum
+- warp
+- rocket
+- yew
+- iced
+- fresh
+- https://www.lifewire.com/disable-windows-key-on-windows-10-5181269
+- https://superuser.com/a/1656486/886777
+- Terraform
+- k8s
+- ansible
+- https://www.youtube.com/watch?v=-Q4T9wLsvOQ&list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70&index=2
+- https://www.bilibili.com/video/BV1964y127dD/ # 国学-解读《坛经》（全87讲，文稿屏录版） by王德峰
+- https://jsomers.net/blog/dictionary
+- https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million
+- https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/
+- https://v0.dev v0 is a generative user interface system by Vercel Labs powered by AI. It generates copy-and-paste friendly React code based on shadcn/ui and Tailwind CSS that people can use in their projects.
+- https://www.nango.dev/blog/why-is-oauth-still-hard
+- https://epaper.gmw.cn/gmrb/html/2021-01/30/nw.D110000gmrb_20210130_1-11.htm # 对立与融合：论《庄子》与儒家思想
+- https://forty.sh/posts/2021-02-19-enabling-fingerprint-authentication/
+- ctags -R --fields=+laimS --languages=php
+
+jobs:
+  - https://www.yuanjisong.com
+  - https://zb.oschina.net
+  - https://codemart.com
+  - https://mart.coding.net
+  - https://www.epwk.com
+  - https://www.sxsoft.com
+  - http://www.taskcity.com
+  - https://www.mayigeek.com/tab/taskList?type=10&price=&bidEnd=
+  - https://www.yespmp.com/#/project?type=0
+  - https://www.clouderwork.com/
+  - https://www.upwork.com
+  - https://www.freelancer.com
+  - https://www.proginn.com
+  - https://crew.co
+  - https://shixian.com
+  - https://www.freetalen.com
+  - https://www.zbj.com
+  - https://www.toptal.com
+  - https://www.fiverr.com
+  - https://www.kuai.ma/
+  - https://www.yingxuan.io/
+  - https://remoteok.io/
+  - https://angel.co/remote
+  - https://www.topcoder.com
+  - http://rrkf.com/
+  - https://www.kaifabang.com/
+  - https://eleduck.com/
+
+- https://www.robinwieruch.de/web-applications/
+- https://tmewett.com/c-tips/
+- https://herbcaudill.com/words/20190219-rewrite-refactor-reinvent
+- https://wikimediafoundation.org/news/2023/03/28/wikipedias-new-sound-logo-winner/
+- rustc uses LLVM as its backend. # https://google.github.io/comprehensive-rust/welcome-day-1/what-is-rust.html
+- https://serverfault.com/questions/770728/rsync-exclude-all-directories-except-a-few
+sound detection:
+  - https://thomer.com/howtos/detect_sound.html
+
+reading:
+  - 汤姆叔叔的小屋
+  - 孟子
+  - 老子
+  - 庄子
+  - 诗经
+  - 左传
+  - 古文观止
+  - 中国哲学史
+  - 西方哲学史
+  - 中国通史
+  - 世界通史
+  - 水浒传
+  - 红楼梦
+  - TCP/IP 详解
+  - UNIX 环境高级编程
+  - C语言程序设计
+  - 数据结构与算法分析 C语言描述
+  - 马克吐温经典作品集
+  - 毛泽东传
+  - 新编毛泽东诗词鉴赏
+  - 莎士比亚全集
+  - Security Engineering https://www.cl.cam.ac.uk/~rja14/book.html
+
+- why plain text file without ext put on debian apache2 garbled, with .txt ext ok
+easyadmin:
+  - hide/set filter comparison type
+  - filter for money field divide 100?
+  - show modal for custom action
+  - date filter(no time)
+
+- php ?type still Too few arguments?
+- symfony debug http-client in packages
+- php:
+  propery/function parameters assign variable cause Fatal error: Constant expression contains invalid operations
+- disable socket unit seems no effect
+- how fedora automatically discover network printers?
+- drupal: add field to Basic site settings, telephone, zipcode, address etc.
+- effective user
+- 实践是检验真理的唯一标准
+- vim:
+  - symfony
+  - plugins
+  - auto add "use ..."
+
+- 孤筏重洋
+- udev
+- articles:
+    - car
+    - plastic bag
+    - kids edu
+    - drupalnew
+    - warmane
+    - git hooks
+    - scanner & raspberrypi
+    - mame
+- tags help text not working in content creating page
+- drupal pathauto term url
+- yourls
+- how psr-4 autoload work
+- php type-hint
+- JSON-LD HAL JSON
+- graphQL
+- CORS
+- proxy pac
+- ps top
+- browser engine
+- xdebug
+- phpunit
+- private filesystem?
+- btrfs
+- nginx lvs
+- load balance 数据同步
+- /dev/ttyS* /dev/tty* /dev/pts/
+- qemu kvm
+- kvm bridge
+- overlayfs
+- php bytecode
+- kmod akmods
+- opcache
+- hugepage
+- ab
+- why X-Authen..., why not use post data?
+- gcc statically compile
+- fcntl F_GETPIPE_SZ
+- ^[ \e alt esc vim
+- quoted-printable
+- Rusalka: Song to the Moon (Act I)
+- screen window start from 1, 0 is the last
+- screen copy mode ctrl-f and ctrl-b first move cursor to bottom and top
+- why PROMPT_COMMAND ,'double tap check' funcs and traps don't affect to $?
+- pulseaudio cards modules short sinks sources clients samples sink-inputs source-outputs
+- $IFS
+- dns 污染 劫持
+- gpg -o $(mktemp -u) -d foo
+- # or
+- gpg -d foo > $(mktemp)
+- preview on video process bar
+- 说一下mysql的存储引擎有哪些?有什么区别?
+- why PHP is not secure?
+- XSS, CSRF, DDOS, SQL
+- urlencode urldecode
+- This method is best when encode a string to used in a query part of a url. it returns a string in which all non-alphanumeric characters except -_. have replece with a percentege(%) sign . the urldecode->Decodes url to encode string as any %and other symbole are decode by the use of the urldecode() function.
+- htmlentities htmlspecialchars
+- htmlentities Convert all applicable characters to HTML entities This function is identical to htmlspecialchars() in all ways, except with htmlentities(), all characters which have HTML character entity equivalents are translated into these entities.
+- objects are passed by value or by reference
+- abstract vs. interface
+- final
+- ADSL 上下不对等
+- char *a and char a[], why the former can't modify element value, the latter can?
+- char array can't be modified? c
+- must have both argc and *argc[] ? c
+- less save mark
+- cat binary file? less s and typescript
+- ssh tunnel can't UDP traffic? wikipedia:shadowsocks
+- https://heraclosgame.com/
+- https://www.extremetech.com/gaming/269335-how-graphics-cards-work
+- https://www.bmqb.com/a/jobs
+- stty tput tset
+- awk index
+- pki
+- http://mywiki.wooledge.org/ParsingLs
+- man pam
+- unix socket
+- d-bus
+- /usr/bin/comm
+- /usr/bin/csplit
+- /usr/bin/dircolors
+- /usr/bin/fmt
+- /usr/bin/fold
+- /usr/bin/hostid
+- /usr/bin/install
+- /usr/bin/mknod
+- /usr/bin/nice
+- /usr/bin/nproc
+- /usr/bin/numfmt
+- /usr/bin/pathchk
+- /usr/bin/ptx
+- /usr/bin/runcon
+- /usr/bin/stdbuf
+- /usr/bin/stty
+- /usr/bin/tsort
+- If we have bash built-in 'command' and 'eval' externally implemented, is there any difference between using 'command' ,'eval' and 'env' in shebang?
+- man tty pts pty vt100 vte term termcap terminfo
+- why out to stdout is much slower than redirect to a file?
+- echo `cat a_multilines_dos_file`
+- var_dump(0 == 'all'); // TRUE, take care
+- if(\false){...} // what's the backslash in vendor/twig/twig/src/Loader/FilesystemLoader.php?
+- asynchronous synchronous
+- non-blocking blocking
+- 0.1+0.2 0.2+0.4 0.3+0.6 ...
+- mysql index, master, slave
+- ssh -D , for other clients?
+- vim fold
+- nmap nc
+- times
+- compile a kernel
+- snmp MIB
+- tinyhttpd
+- mtu, my nic 1500, router 1480?
+- rpc, name service switch, LDAP
+- field_email and field_site do not write into database where i expected
+- functions invoked in interactive shell cannot be found by pkill or pgrep, but crontab can (bash -c "")
+- ps defunct
+- autoconf, automake, libtool
+- php zts phpize
+- http://mywiki.wooledge.org/BashPitfalls
+- cpio
+- r360 withdraw 2017.9.6
+- raid
+- socket socks
+- p2p bitcoin
+- procps-ng sysstat 
+- http://www.tldp.org/HOWTO/Assembly-HOWTO/index.html
+- bash shellshock
+- man supplicant
+- man charsets unicode utf-8
+- top cpu limit
+- mysql multi-instance
+- iw iwconfig wpa_supplicant
+- nslookup
+- dig
+- ping icmp
+- ss
+- lsof
+- why i can access windows machine by its hostname on linux? NetBIOS?
+- why would iproute replace net-tools
+- CIDR
+- reaver need monitor mode?
+- what't the purpose of each mode? when i needd monitor monde?
+- why childNodes can't get attribute nodes?
+- 32位cpu，为什么不能装64位系统？
+- MBR模式为什么只能识别2TB内的硬盘？
+- MBR模式为什么只能有4个主分区？
+- Linux中新建、删除、重命名文件和目录为什么需要父级目录的的w权限？（文件的inode不记录文件名？）
+- 外磁道与内磁道扇区数一样么？
+- cluster=block?
+- SSD对cluster、block的影响？
+- 世界上任何民族在他们彼此接触之前就有着许多相同的生活习性，比如，用床和被子，习惯用右手，一日三餐，日作夜息……
+- radio frequency
+- GDP CPI RDR
+- pxe kickstart
+
+# vim:ft=yaml
