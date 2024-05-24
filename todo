@@ -1,3 +1,64 @@
+- 需求1:
+  虚拟数字档案室系统:
+    - 
+
+
+- 需求2:
+  - XX数字档案管理系统（局域网平台）:
+    - 馆藏资源管理系统
+    - 电子阅览室系统
+    - 多媒体档案管理系统
+    - 电子档案长期保存系统
+    - 数据迁移
+  - XX数字档案管理系统（政务网平台）:
+    - 集中式档案室管理系统
+    - 电子档案移交接收系统
+    - 政务网档案利用服务系统
+  - XX数字档案管理系统（互联网平台）:
+    - 互联网档案利用服务平台
+    - 网页信息采集系统
+
+- 需求1:
+  - 档案接收
+  - 电子阅览室系统
+  - 馆室一体化管理平台
+  - 5.3.2.2虚拟数字档案室系统
+  - 5.3.2.3档案移交接收系统
+  - 5.3.2.4开放档案利用系统
+  - 5.3.2.5接待利用管理系统
+
+- 是否要求国产数据库？
+- USBKey 用途
+- 圈图检索
+- 打点检索
+- 以图搜图
+- 兼容IE8?
+
+- 规格:智慧档案馆综合运行管理平台，平台支持B/S、C/S架构，支持WEB远程浏览，支持客户端远程浏览，支持远程设置系统各项参数
+
+- https://dhashe.com/xargs-is-the-inverse-function-of-echo.html
+- https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html
+- https://lilysthings.org/blog/daily-driving-freebsd/
+- https://www.annwan.me/computers/what-why-how-containers/
+- https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html
+- https://unkey.dev/blog/uuid-ux
+- https://linux-kernel-labs-zh.xyz/index.html
+- https://github.com/yichensec/yichen_Password_dictionary
+- https://xz.aliyun.com/t/7823?time__1311=n4%2BxnD0G0%3DGQitG88DCDlhjmPExj2w%2BAwG4rD&alichlgref=https%3A%2F%2Fcn.bing.com%2F
+- https://www.solidot.org/story?sid=77766
+- 隔音
+- aws
+- https://aibydoing.com/intro
+- https://www.bentoml.com/blog/navigating-the-world-of-large-language-models
+- https://gyrovague.com/2023/08/05/archive-today-on-the-trail-of-the-mysterious-guerrilla-archivist-of-the-internet/
+- https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities
+- https://www.writesoftwarewell.com/content-security-policy/
+- https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1
+- sink idle/suspended when set headphone as sink port
+- https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built
+- https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/
+- https://preslav.me/2023/11/27/python-is-easy-golang-is-simple-simple-is-not-easy/
+- https://www.designsystemhunt.com/ds/Porsche-Design-System-v3
 - https://dotat.at/@/2023-05-26-whence-time.html
 - 寒窑赋 https://so.gushiwen.cn/shiwenv_41005a503da5.aspx
 - https://blog.allegro.tech/2023/11/how-does-btree-make-your-queries-fast.html
@@ -140,7 +201,6 @@ easyadmin:
   - plugins
   - auto add "use ..."
 
-- 孤筏重洋
 - udev
 - articles:
     - car
