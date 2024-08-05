@@ -1,41 +1,70 @@
-- 需求1:
-  虚拟数字档案室系统:
-    - 
-
-
-- 需求2:
-  - XX数字档案管理系统（局域网平台）:
-    - 馆藏资源管理系统
-    - 电子阅览室系统
-    - 多媒体档案管理系统
-    - 电子档案长期保存系统
-    - 数据迁移
-  - XX数字档案管理系统（政务网平台）:
-    - 集中式档案室管理系统
-    - 电子档案移交接收系统
-    - 政务网档案利用服务系统
-  - XX数字档案管理系统（互联网平台）:
-    - 互联网档案利用服务平台
-    - 网页信息采集系统
-
-- 需求1:
-  - 档案接收
-  - 电子阅览室系统
-  - 馆室一体化管理平台
-  - 5.3.2.2虚拟数字档案室系统
-  - 5.3.2.3档案移交接收系统
-  - 5.3.2.4开放档案利用系统
-  - 5.3.2.5接待利用管理系统
-
-- 是否要求国产数据库？
-- USBKey 用途
-- 圈图检索
-- 打点检索
-- 以图搜图
-- 兼容IE8?
-
-- 规格:智慧档案馆综合运行管理平台，平台支持B/S、C/S架构，支持WEB远程浏览，支持客户端远程浏览，支持远程设置系统各项参数
-
+- https://www.laruence.com/2008/06/18/221.html
+- https://unix.stackexchange.com/questions/86071/use-virt-manager-to-share-files-between-linux-host-and-windows-guest
+- https://foxsen.github.io/archbase/
+- https://hutusi.com/articles/the-greatest-git-commit
+- https://linux.cn/article-12722-1.html
+- http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html
+- https://blog.darkthread.net/blog/git-author-n-committer/
+- http://morefreeze.github.io/2020/12/president-arbitrage.html
+- https://cjting.me/2020/12/10/tiny-x64-helloworld/
+- https://www.cnblogs.com/ryanyangcs/p/13253212.html
+- https://www.zhihu.com/question/24123210
+- https://www.ruanyifeng.com/blog/2018/06/javascript-this.html
+- https://linux.cn/article-12965-1.html
+- https://fedoramagazine.org/choose-between-btrfs-and-lvm-ext4/
+- https://madaidans-insecurities.github.io/guides/linux-hardening.html
+- https://wiki.debian.org/AutomatedUpgrade
+- https://cmcenroe.me/2014/11/24/scheduled-suspend-and-resume-with-systemd.html
+- https://tech.meituan.com/2018/10/11/fe-security-csrf.html
+- https://symfony.com/doc/current/quick_tour/the_big_picture.html
+- https://linux.cn/article-13043-1.html
+- https://linux.cn/article-13052-1.html
+- http://komlenic.com/244/8-reasons-why-mysqls-enum-data-type-is-evil/
+- https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/
+- https://jub0bs.com/posts/2021-01-29-great-samesite-confusion/
+- https://amittallapragada.github.io/docker/fastapi/python/2020/12/23/server-side-events.html
+- https://www.baseclass.io/huffman-coding/
+- https://www.maxpou.fr/dealing-with-enum-symfony-doctrine
+- https://www.internalpointers.com/post/gentle-introduction-multithreading
+- https://linux.cn/article-13368-1.html
+- https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html
+- https://www.matuzo.at/blog/html-boilerplate/
+- https://github.com/taosue/how-to-get-rich-without-getting-lucky/
+- https://linux.cn/article-13462-1.html
+- https://linux.cn/article-13720-1.html
+- https://es6.ruanyifeng.com/
+- https://thevaluable.dev/vim-php-ide/
+- https://pages.longtian.info/gps/
+- https://phone-as-webcam.netlify.app/
+- http://m.jrj.com.cn/madapter/usstock/2016/01/27030420489084.shtml
+- https://natanyellin.com/posts/life-and-death-of-a-linux-process/
+- http://www.maizure.org/projects/decoded-gnu-coreutils/index.html
+- http://ronja.twibright.com/about.php
+- https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/
+- https://swtch.com/~rsc/regexp/regexp4.html
+- https://forum.warmane.com/showthread.php?t=460838 # Technical removing sound of personalized weather storm
+- https://blog.vvzero.com/2022/09/18/Ethernet-Wiring/
+- https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github
+- https://pillser.com/engineering/2024-06-10-website-without-404s
+- https://davidwalsh.name/detect-caps-lock
+- https://tommihovi.com/2024/05/demystifying-cookies-and-tokens/
+- https://benhoyt.com/writings/hash-table-in-c/
+- https://blog.brachiosoft.com/posts/git/
+- https://jakearchibald.com/2024/attributes-vs-properties/
+- https://www.pythonmorsels.com/cli-tools/
+- https://www.igloo.inc
+- https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-quickstart
+- https://ipfail.org/security/the-cloudflare-dashboard-is-loading-high-cpu-load/
+- https://engineeringatscale.substack.com/p/how-quic-is-displacing-tcp-for-speed
+- ctbrec
+- https://www.cnblogs.com/bossma/p/15858050.html # 十分钟搞懂手机号码一键登录
+- https://www.cnblogs.com/bossma/p/15838101.html # 一图搞懂扫码登录的技术原理
+- https://www.cnblogs.com/bossma/p/15812037.html # 手机验证码登录原理、风险和应对策略
+- https://blog.partykit.io/posts/using-vectorize-to-build-search/
+- https://frontendmasters.com/blog/how-to-make-a-css-timer/
+- https://testing.googleblog.com/2024/04/isbooleantoolongandcomplex.html
+- JSON vs GraphQL vs REST API
+- https://www.icann.org/resources/pages/dnssec-what-is-it-why-important-2019-03-05-en
 - https://dhashe.com/xargs-is-the-inverse-function-of-echo.html
 - https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html
 - https://lilysthings.org/blog/daily-driving-freebsd/
@@ -46,8 +75,6 @@
 - https://github.com/yichensec/yichen_Password_dictionary
 - https://xz.aliyun.com/t/7823?time__1311=n4%2BxnD0G0%3DGQitG88DCDlhjmPExj2w%2BAwG4rD&alichlgref=https%3A%2F%2Fcn.bing.com%2F
 - https://www.solidot.org/story?sid=77766
-- 隔音
-- aws
 - https://aibydoing.com/intro
 - https://www.bentoml.com/blog/navigating-the-world-of-large-language-models
 - https://gyrovague.com/2023/08/05/archive-today-on-the-trail-of-the-mysterious-guerrilla-archivist-of-the-internet/
