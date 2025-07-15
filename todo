@@ -1,4 +1,51 @@
-- http://www.neosnkof.net
+- https://forums.debian.net/viewtopic.php?t=160522 # [SID - Unstable] "last" command not found
+- https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/
+- https://lukeplant.me.uk/blog/posts/you-can-stop-using-user-scalable-no-and-maximum-scale-1-in-viewport-meta-tags-now/
+- https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html
+- https://tratt.net/laurie/blog/2025/better_shell_history_search.html
+- https://www.keithcirkel.co.uk/css-classes-considered-harmful/
+- https://blog.sagyamthapa.com.np/interactive-guide-to-rate-limiting
+- https://www.ducktyped.org/p/why-is-it-called-a-cloud-if-its-not
+- https://simonwillison.net/2025/May/25/sponsors-only-newsletter/
+- https://lackofimagination.org/2024/10/self-documenting-code/
+- https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide
+- https://heitorpb.github.io/bla/timeout/
+- https://behind.pretix.eu/2025/05/23/captchas-are-over/
+- https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/
+- https://philz.dev/blog/agent-loop/
+- https://blog.gitbutler.com/how-git-core-devs-configure-git/
+- https://www.upwork.com/resources/how-to-get-client-testimonials?utm_source=Braze&utm_medium=email&utm_campaign=EML_BRAZE_NSLT_ALLMKTS_RETEN_1P_FLH_202505-AH-Newsletter&campaign_message=Variant1&canvas_api_id=&canvas_variant_api_id=&canvas_step_or_campaign_api_id=f4e58175-f2b0-408a-b579-5534e8403ad7&message_variation_api_id=c26e7895-6849-4bf8-b696-720bcf954a18&dispatch_id=6824798332ca03d5fefa7fefae189cbc
+- https://idiallo.com/blog/zipbomb-protection
+- https://edition.cnn.com/2025/04/26/world/who-was-at-pope-francis-funeral-intl/index.html
+- https://shkspr.mobi/blog/2025/02/why-are-qr-codes-with-capital-letters-smaller-than-qr-codes-with-lower-case-letters/
+- https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days
+- https://www.404s.design/
+- https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code
+- https://igorstechnoclub.com/server-sent-events-sse-are-underrated/
+- https://www.silvestar.codes/articles/reset-with-css-unset/
+- Gemini 2.0 Flash 去除水印
+- 没有你，万般精彩皆枉然
+- https://whitmanarchive.org # Walt Whitman
+- https://bhoot.dev/2024/on-linux-file-and-links/
+- https://htmx.org/essays/you-cant/
+- https://www.pixelstech.net/article/1727412048-Why-TCP-needs-3-handshakes
+- https://fedoramagazine.org/working-with-btrfs-subvolumes/
+- https://fedoramagazine.org/btrfs-coming-to-fedora-33/
+- https://kerkour.com/aws-s3-vs-cloudflare-r2-price-performance-user-experience
+- https://takashiidobe.com/gen/writing-compilers
+- https://arxiv.org/html/2412.13459v1#S4
+- https://codingstuff.substack.com/p/if-gpus-are-so-good-why-do-we-still
+- tranchtenberg
+- https://askubuntu.com/questions/1272386/dpkg-unrecoverable-fatal-error-aborting-unknown-system-group
+- https://tpb.party/user/extremezone/0/7
+- https://www.joshwcomeau.com/css/custom-css-reset/
+- https://xdaforums.com/t/info-boot-process-android-vs-linux.3785254/
+- https://www.thebyte.com.cn/
+- https://sofiapandelea.medium.com/monitor-replacement-using-a-projector-for-a-home-office-setup-231d2891b3ae
+- https://profmattstrassler.com/2024/10/01/why-is-the-speed-of-light-so-fast-part-1/
+- https://www.infoworld.com/article/2269523/put-business-logic-in-the-application-not-the-database.html
+- https://www.xda-developers.com/appdata/
+- https://0xinfection.github.io/reversing/
 - rustdesk.com
 - django
 - https://github.com/mtdvio/every-programmer-should-know
@@ -139,7 +186,6 @@
 - https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/
 - https://wise.com/us/blog/paypal-vs-payoneer
 - https://needlify.com/post/how-to-prefix-urls-with-the-locale-in-symfony-aea009a2
-- bin/console doctrine:database:create permission denied to create database
 - https://www.howtouselinux.com/post/understanding-rpcbind-and-rpc
 design to code:
   - https://code.fun/
@@ -158,7 +204,6 @@ design to code:
 - 智能大反攻 The Mitchells vs. The Machines (2021)
 - BNF WSN
 - https://tomhummel.com/posts/four-web-apps/
-- gin
 - django
 - flask
 - actix-web
