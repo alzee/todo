@@ -1,3 +1,5 @@
+- cors csp sop csrf xss
+- 重复、机械、写测试、dummy data, template, scheme建议
 - https://spacedimp.com/blog/using-rust-axum-postgresql-and-tokio-to-build-a-blog/
 - Murder of Yara Gambirasio
 - https://rgbcu.be/blog/gitignore/
