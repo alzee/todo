@@ -1,4 +1,10 @@
-- fastapi go rust
+- MCP
+- https://www.xda-developers.com/differences-between-amd-and-intel-cpus/
+- https://www.dougmacdowell.com/coffeematic-pc.html
+- https://avi.im/blag/2025/db-cache/
+- fastapi
+- go
+- rust
 - https://pixabay.com/
 - https://item.jd.com/100113020499.html 439
 - deprecate eraseCredentials(): AuthenticationTokenCreatedEvent
