@@ -1,7 +1,18 @@
+- https://stackoverflow.com/questions/28043652/vim-unknown-function-pythoncompletecomplete
 - https://infrasys-ai.github.io/aiinfra-docs/05Infer01Foundation/03Performance.html # 大模型推理性能指标
 - https://arxiv.org/pdf/2412.19437 # DeepSeek-V3 Technical Report
 - https://juejin.cn/post/7508544344414519333 # DeepSeek 在昇腾 910B 能跑多快？实测数据大揭秘
 - https://github.com/ninehills/blog/issues/107 # 如何评判大模型的输出速度？首Token延迟和其余Token延迟有什么不同
+- 混合量化 dynamic量化
+- https://www.hiascend.com/forum/thread-0250191864721739417-1-1.html
+- https://www.vultr.com/promo/try200
+- https://ollama.com/blog/web-search
+- https://www.xda-developers.com/booting-raspberry-pi-network-huge-performance-difference/
+- https://abhinavsarkar.net/notes/2025-compiler-backend-survey/
+- https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/
+- https://flower.codes/2025/10/23/onion-mirror.html
+- ssh reverse tunnel
+- HBM DRAM
 - https://kasurian.com/p/research-as-leisure
 - https://ishadeed.com/article/css-relative-colors/
 - https://walkingtheworld.substack.com/p/walking-zhengzhou-china
